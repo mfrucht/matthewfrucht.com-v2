@@ -1,3 +1,3 @@
 ## matthewfrucht.com
 
-Check it out
+[Check it out](https://www.matthewfrucht.com)
