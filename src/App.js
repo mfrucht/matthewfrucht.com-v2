@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
 
-const images = ['./assets/images/backdrop3.png', './assets/images/backdrop4.png'];
+const images = ['./assets/images/backdrop1.png', './assets/images/backdrop2.png'];
 
 class App extends Component {
 
