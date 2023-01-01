@@ -27,7 +27,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <header className="App-header" style={{ backgroundImage: `url(${images[this.state.imgInd]})`}}>
+        <header className="App-header" style={{ backgroundImage: `url(${images[this.state.imgInd]})`, backgroundPosition: '-10% -10%'}}>
           <p style={{color: 'black'}}>Matthew Frucht</p>
         </header>
       </div >
